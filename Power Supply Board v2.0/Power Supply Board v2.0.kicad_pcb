@@ -759,7 +759,7 @@
       (net 8 "Net-(C7-Pad1)") (pintype "passive") (tstamp 8453ed5f-14ec-4c53-b8b6-a6c140c9d8fa))
     (pad "2" thru_hole circle (at 3.5 0 180) (locked) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 3 "GNDA") (pintype "passive") (tstamp edd88eba-0333-4538-a268-2d9cdcbccd96))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D8.0mm_P3.50mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D8.0mm_P3.50mm.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7515,7 +7515,7 @@
       (net 8 "Net-(C7-Pad1)") (pinfunction "K") (pintype "passive") (tstamp a56e0c0b-b148-468c-9cdb-5572b8ec304e))
     (pad "2" thru_hole oval (at 7.62 0) (locked) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask)
       (net 32 "Net-(D2-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 4b225a0f-3d99-425c-a15e-443fa3cf5c74))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P7.62mm_Horizontal.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7577,7 +7577,7 @@
       (net 8 "Net-(C7-Pad1)") (pinfunction "K") (pintype "passive") (tstamp db8e9130-f70d-410b-942e-853f7f41cfb6))
     (pad "2" thru_hole oval (at 7.62 0) (locked) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask)
       (net 33 "Net-(D3-Pad2)") (pinfunction "A") (pintype "passive") (tstamp f138500b-eb84-4f99-a8b5-f1f34a5c9f22))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P7.62mm_Horizontal.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7639,7 +7639,7 @@
       (net 32 "Net-(D2-Pad2)") (pinfunction "K") (pintype "passive") (tstamp d9293777-a5bc-43b7-b2ee-f1729196e2b4))
     (pad "2" thru_hole oval (at 7.62 0 180) (locked) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask)
       (net 3 "GNDA") (pinfunction "A") (pintype "passive") (tstamp 8abfdaf0-6e4b-4863-b56e-c52872cb9a0a))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P7.62mm_Horizontal.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7701,7 +7701,7 @@
       (net 33 "Net-(D3-Pad2)") (pinfunction "K") (pintype "passive") (tstamp 7916a708-ebe9-44b9-ada4-34110e4be310))
     (pad "2" thru_hole oval (at 7.62 0 180) (locked) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask)
       (net 3 "GNDA") (pinfunction "A") (pintype "passive") (tstamp 1009dabd-2bcd-4f30-934f-07c1c1267cde))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P7.62mm_Horizontal.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7825,7 +7825,7 @@
       (net 3 "GNDA") (pinfunction "K") (pintype "passive") (tstamp d608c266-027e-4c44-b52f-f87a97b9b7f0))
     (pad "2" thru_hole oval (at 7.62 0 180) (locked) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 35 "Net-(D7-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 997cc067-db0e-45e1-805a-5310cc9158e7))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13295,7 +13295,7 @@
       (net 35 "Net-(D7-Pad2)") (pinfunction "GND") (pintype "power_in") (tstamp 6d55c5e3-0577-428f-972e-32b9ec039d39))
     (pad "3" thru_hole oval (at 5.08 0) (locked) (size 1.905 2) (drill 1.2) (layers *.Cu *.Mask)
       (net 12 "+16V") (pinfunction "VO") (pintype "power_out") (tstamp eec4a788-1558-468a-a2d3-e3bbc485e8b9))
-    (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220F-3_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220F-3_Vertical.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
