@@ -1,0 +1,8 @@
+### Module positions - created on Wednesday, March 10, 2021 at 01:19:45 PM ###
+### Printed by Pcbnew version kicad (5.1.8-0-10_14)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                                   PosX       PosY       Rot  Side
+L3        10µ      L_Wuerth_WE-PD-Typ-LS_Handsoldering   262.9710    84.4980  180.0000  top
+L4        10µ      L_Wuerth_WE-PD-Typ-LS_Handsoldering   262.9710    70.0200  180.0000  top
+## End
