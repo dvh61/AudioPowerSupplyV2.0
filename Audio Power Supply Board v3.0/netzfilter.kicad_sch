@@ -1,0 +1,30 @@
+(kicad_sch (version 20210126) (generator eeschema)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+
+  (hierarchical_label "L" (shape input) (at 26.67 38.735 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 703ab30f-5e2e-474b-9b37-57f2c6e9ebf0)
+  )
+  (hierarchical_label "N" (shape input) (at 26.67 55.245 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 91157f44-1040-4fc5-a9f6-4e370c97910b)
+  )
+  (hierarchical_label "PE" (shape input) (at 26.67 69.85 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 64778384-bb40-42b7-940a-67e3e41a7b9a)
+  )
+  (hierarchical_label "A1" (shape output) (at 259.08 46.355 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid b169c490-87c4-4bf6-a327-cc9e27be5070)
+  )
+  (hierarchical_label "A2" (shape output) (at 259.08 67.945 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 178f8000-93ac-487e-99e9-834997fb0207)
+  )
+)

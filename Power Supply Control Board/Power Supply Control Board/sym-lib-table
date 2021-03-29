@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Power-Supply-Control-Board-SG3525-rescue")(type "Legacy")(uri "${KIPRJMOD}/Power Supply Control Board SG3525-rescue.lib")(options "")(descr ""))
+  (lib (name "Power-Supply-Control-Board-rescue")(type "Legacy")(uri "${KIPRJMOD}/Power Supply Control Board-rescue.lib")(options "")(descr ""))
+)
