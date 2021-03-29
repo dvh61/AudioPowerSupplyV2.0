@@ -9328,7 +9328,7 @@
     (fp_line (start 8.128 8.128) (end 8.128 6.858) (layer "F.Fab") (width 0.12) (tstamp faca8f2d-ae8c-45eb-95ee-fe7ac62a8ffe))
     (pad "1" thru_hole circle (at -4.6736 -5.08 90) (locked) (size 2.794 2.794) (drill 2.413) (layers *.Cu *.Mask) (tstamp 2d109ba6-ca1a-4ddb-ad48-5e977d829edc))
     (pad "2" thru_hole circle (at -4.6736 5.08 90) (locked) (size 2.794 2.794) (drill 2.413) (layers *.Cu *.Mask) (tstamp cc5c1b61-3625-4c6a-a7a9-2f45830f2ed2))
-    (model "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm.step" hide
+    (model "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm.step"
       (offset (xyz -3 0 0))
       (scale (xyz 0.5 1 1))
       (rotate (xyz 0 0 -90))
@@ -13492,7 +13492,7 @@
       (net 33 "Net-(D3-Pad2)") (pinfunction "SA") (pintype "passive") (tstamp bc77389d-43ef-4076-aaad-e95a538c92f0))
     (pad "4" thru_hole circle (at 12.5 7.5) (locked) (size 3.2 3.2) (drill 0.9) (layers *.Cu *.Mask)
       (net 32 "Net-(D2-Pad2)") (pinfunction "SB") (pintype "passive") (tstamp 9e00a1a8-885a-4d1d-84bb-f4f95a5784b1))
-    (model "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_EI42-5VA_1xSec.step" hide
+    (model "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_EI42-5VA_1xSec.step"
       (offset (xyz -12.5 -10 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -14193,7 +14193,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/Users/dietmarvanheukelum/OneDrive/Dokumente/Kicad-Projekte/Audio Power Supply/Auxiliary Power Module/Auxiliary Supply/Auxiliary Supply.step"
+    (model "/Users/dietmarvanheukelum/OneDrive/Dokumente/Kicad-Projekte/Audio Power Supply/Auxiliary Power Module/Auxiliary Supply/Auxiliary Supply.step" hide
       (offset (xyz -26.5 -18 9.65))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
