@@ -219,7 +219,6 @@
     )
   )
 
-
   (junction (at 100.33 48.895) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 112.395 63.5) (diameter 0.9144) (color 0 0 0 0))
 
@@ -275,10 +274,6 @@
   (hierarchical_label "GND" (shape input) (at 112.395 93.345 270)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 36ed2958-7723-4df3-ae23-8930a244758e)
-  )
-  (hierarchical_label "~Shutdown" (shape input) (at 245.745 64.77 180)
-    (effects (font (size 1.27 1.27)) (justify right))
-    (uuid 27dfedef-94f9-4801-bcb4-feec11d5a832)
   )
 
   (symbol (lib_id "Device:R") (at 100.33 85.725 0) (unit 1)
