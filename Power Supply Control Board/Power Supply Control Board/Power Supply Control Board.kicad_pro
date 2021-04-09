@@ -45,11 +45,19 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.254
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        "silk_overlap|114950857|137056857|e7d4014d-8f25-42e6-9f22-925dfd8fffc4|c681cef9-3ede-4267-8828-ac00c186bf36"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -411,7 +419,7 @@
       },
       {
         "bus_width": 12.0,
-        "clearance": 0.635,
+        "clearance": 0.335,
         "diff_pair_gap": 0.2032,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2032,
@@ -421,8 +429,6 @@
         "name": "High Voltage",
         "nets": [
           "HO",
-          "Net-(R6-Pad2)",
-          "Net-(R7-Pad2)",
           "VB+",
           "Vs"
         ],
@@ -482,7 +488,7 @@
   },
   "sheets": [
     [
-      "dc593af7-822b-4bd4-81e2-31ddd36f1397",
+      "e2bbf5cc-7d73-4313-bca1-e8a480fae7e2",
       ""
     ]
   ],
