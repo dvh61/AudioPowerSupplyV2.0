@@ -78,7 +78,13 @@
         "courtyards_overlap|73111629|201032000|ffa8eccc-bbda-476d-b1f4-ddf27362cdd8|00000000-0000-0000-0000-00005eedfb93",
         "courtyards_overlap|80454916|208652000|ffa8eccc-bbda-476d-b1f4-ddf27362cdd8|00000000-0000-0000-0000-00005eedfbd1",
         "courtyards_overlap|81111000|204842000|ffa8eccc-bbda-476d-b1f4-ddf27362cdd8|00000000-0000-0000-0000-00005eedfbb2",
-        "silk_overlap|153071000|156560600|1a7edd8e-625d-4b65-8b3e-4d1a5f731158|90b1c4fc-3894-486a-b68f-b2baad75c7dd"
+        "silk_overlap|153071000|156560600|1a7edd8e-625d-4b65-8b3e-4d1a5f731158|90b1c4fc-3894-486a-b68f-b2baad75c7dd",
+        "silk_overlap|153980000|156542002|90b1c4fc-3894-486a-b68f-b2baad75c7dd|1a7edd8e-625d-4b65-8b3e-4d1a5f731158",
+        "silk_overlap|42288300|157752000|c4b063ea-31fa-4a6b-9609-2bbe4ab2da02|9a877056-252d-4bc5-8d99-1e41203af02e",
+        "silk_overlap|42288300|197835000|c4b063ea-31fa-4a6b-9609-2bbe4ab2da02|6525cd9d-53bc-4266-b1ef-9fcecf2987fd",
+        "silk_overlap|42612000|157752000|c4b063ea-31fa-4a6b-9609-2bbe4ab2da02|9a877056-252d-4bc5-8d99-1e41203af02e",
+        "silk_overlap|42612000|197835000|6525cd9d-53bc-4266-b1ef-9fcecf2987fd|c4b063ea-31fa-4a6b-9609-2bbe4ab2da02",
+        "silk_overlap|79620902|157752000|50f3b8d2-6e57-4057-a421-f68ddd2ea589|c4b063ea-31fa-4a6b-9609-2bbe4ab2da02"
       ],
       "meta": {
         "filename": "board_design_settings.json",
@@ -135,7 +141,7 @@
         "min_microvia_diameter": 0.6095999999999999,
         "min_microvia_drill": 0.30479999999999996,
         "min_silk_clearance": 0.0,
-        "min_through_hole_diameter": 0.30479999999999996,
+        "min_through_hole_diameter": 0.3,
         "min_track_width": 0.15239999999999998,
         "min_via_annular_width": 0.15,
         "min_via_diameter": 0.6095999999999999
@@ -163,23 +169,23 @@
         },
         {
           "diameter": 0.635,
-          "drill": 0.381
+          "drill": 0.3
         },
         {
           "diameter": 0.762,
-          "drill": 0.508
+          "drill": 0.5
         },
         {
           "diameter": 1.016,
-          "drill": 0.762
+          "drill": 0.6
         },
         {
           "diameter": 1.27,
-          "drill": 0.889
+          "drill": 0.8
         },
         {
           "diameter": 1.778,
-          "drill": 1.27
+          "drill": 1.1
         }
       ],
       "zones_allow_external_fillets": false,
@@ -510,7 +516,7 @@
       "step": "",
       "vrml": ""
     },
-    "page_layout_descr_file": ""
+    "page_layout_descr_file": "/Users/dietmarvanheukelum/Documents/Kicad/5.99/template/VHAudio.kicad_wks"
   },
   "schematic": {
     "drawing": {
