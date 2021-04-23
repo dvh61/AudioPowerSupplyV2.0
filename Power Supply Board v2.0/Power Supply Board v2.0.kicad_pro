@@ -438,10 +438,7 @@
         "microvia_diameter": 0.762,
         "microvia_drill": 0.3556,
         "name": "GND",
-        "nets": [
-          "GND",
-          "GNDA"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.254,
@@ -477,23 +474,7 @@
         "microvia_diameter": 0.65,
         "microvia_drill": 0.32,
         "name": "High Voltage",
-        "nets": [
-          "/L",
-          "/N",
-          "Earth_Protective",
-          "Net-(C13-Pad2)",
-          "Net-(C3-Pad1)",
-          "Net-(C4-Pad1)",
-          "Net-(C6-Pad1)",
-          "Net-(C8-Pad1)",
-          "Net-(C8-Pad2)",
-          "Net-(D16-Pad1)",
-          "Net-(D16-Pad3)",
-          "Net-(D8-Pad2)",
-          "Net-(FL2-Pad1)",
-          "VB",
-          "VS"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
@@ -556,12 +537,8 @@
   },
   "sheets": [
     [
-      "00000000-0000-0000-0000-0000599d0121",
+      "22c04be2-2e0e-49c5-b85d-00117bb20750",
       ""
-    ],
-    [
-      "00000000-0000-0000-0000-0000599d0121",
-      "Signal Logic"
     ]
   ],
   "text_variables": {}
